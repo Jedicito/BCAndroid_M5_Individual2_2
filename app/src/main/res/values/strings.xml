@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">M5_Individual2_2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txv_primero">Primer Fragmento</string>
+    <string name="txv_segundo">Segundo Fragmento</string>
+    <string name="btn_primero">Ir al Segundo Fragmento</string>
+    <string name="btn_segundo">Ir al Primer Fragmento</string>
+    <string name="txv_conozcoPositivo">Si, lo conozco</string>
+    <string name="txv_conozcoNegativo">No, no lo conozco.</string>
+    <string name="btn_abrir">Abrir arriba</string>
+    <string name="btn_primero_cerrar">Finalizar App</string>
+</resources>
